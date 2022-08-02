@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaishz
-- 👀 I’m interested in Coding, Cubing, Gaming, Piano, Photography, Karate 
+- 👀 I’m interested in artificial neural networks 
 - 🌱 I’m currently learning Science
 - 💞️ I’m looking to collaborate on somethin cool
 - 📫 How to reach me via mail
