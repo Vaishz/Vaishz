@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vaishz
-- 👀 I’m interested in artificial neural networks 
-- 🌱 I’m currently learning Science
+- 👋 Hi, I’m @vaishz
+- 👀 I’m interested in artificial intelligence and machine learning  
+- 🌱 I’m currently learning to create and explore
 - 💞️ I’m looking to collaborate on somethin cool
-- 📫 How to reach me via mail
+- 📫 How to reach me via mail :u
 
 <!---
 Vaishz/Vaishz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
